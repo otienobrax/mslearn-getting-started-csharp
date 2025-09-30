@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "part-3-add-logic-console-apps", "part-3-add-logic-console-apps", "{DF5C8170-ABAE-952B-5F4F-23D73ECDCE78}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Challenge-project-branching-looping-CSharp-main", "Challenge-project-branching-looping-CSharp-main", "{88B7460B-1483-4ADA-9D04-B46D10456FD8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Challenge-project-branching-looping-CSharp-main", "Challenge-project-branching-looping-CSharp-main", "{4D667C57-CF2E-36EA-164C-10C127EDA853}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ChallengeProject", "ChallengeProject", "{374E63B0-2628-9046-95F6-E165D50A0653}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final", "part-3-add-logic-console-apps\Challenge-project-branching-looping-CSharp-main\Challenge-project-branching-looping-CSharp-main\ChallengeProject\Final\Final.csproj", "{A71B4B9F-77B3-F6C2-9336-252BA98F614E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Starter", "part-3-add-logic-console-apps\Challenge-project-branching-looping-CSharp-main\Challenge-project-branching-looping-CSharp-main\ChallengeProject\Starter\Starter.csproj", "{3CCB7A7F-2830-EF95-8471-5A38F62B114A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A71B4B9F-77B3-F6C2-9336-252BA98F614E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A71B4B9F-77B3-F6C2-9336-252BA98F614E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A71B4B9F-77B3-F6C2-9336-252BA98F614E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A71B4B9F-77B3-F6C2-9336-252BA98F614E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CCB7A7F-2830-EF95-8471-5A38F62B114A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CCB7A7F-2830-EF95-8471-5A38F62B114A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CCB7A7F-2830-EF95-8471-5A38F62B114A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CCB7A7F-2830-EF95-8471-5A38F62B114A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{88B7460B-1483-4ADA-9D04-B46D10456FD8} = {DF5C8170-ABAE-952B-5F4F-23D73ECDCE78}
+		{4D667C57-CF2E-36EA-164C-10C127EDA853} = {88B7460B-1483-4ADA-9D04-B46D10456FD8}
+		{374E63B0-2628-9046-95F6-E165D50A0653} = {4D667C57-CF2E-36EA-164C-10C127EDA853}
+		{A71B4B9F-77B3-F6C2-9336-252BA98F614E} = {374E63B0-2628-9046-95F6-E165D50A0653}
+		{3CCB7A7F-2830-EF95-8471-5A38F62B114A} = {374E63B0-2628-9046-95F6-E165D50A0653}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {292075C1-47E9-4720-9432-482C07C27502}
+	EndGlobalSection
+EndGlobal
